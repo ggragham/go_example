@@ -21,4 +21,5 @@
 go.work
 
 # Misc
+dist/
 hello_world
